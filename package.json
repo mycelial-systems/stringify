@@ -1,5 +1,5 @@
 {
-  "name": "@bicycle-codes/stringify",
+  "name": "@substrate-system/stringify",
   "description": "Create small base64-encoded strings.",
   "type": "module",
   "bin": {
@@ -62,11 +62,11 @@
   "author": "nichoth <nichoth@nichoth.com> (https://nichoth.com)",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bicycle-codes/stringify.git"
+    "url": "git+https://github.com/substrate-system/stringify.git"
   },
-  "homepage": "https://github.com/bicycle-codes/stringify",
+  "homepage": "https://github.com/substrate-system/stringify",
   "bugs": {
-    "url": "https://github.com/bicycle-codes/stringify/issues"
+    "url": "https://github.com/substrate-system/stringify/issues"
   },
   "keywords": [
     "stringify",

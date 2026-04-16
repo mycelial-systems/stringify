@@ -41,7 +41,7 @@
     "eslint": "^8.57.0",
     "eslint-config-standard": "^17.1.0",
     "tap-spec": "^5.0.0",
-    "typescript": "^5.4.5"
+    "typescript": "^6.0.2"
   },
   "exports": {
     ".": {

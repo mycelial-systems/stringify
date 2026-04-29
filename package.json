@@ -28,7 +28,7 @@
   "dependencies": {
     "file-type": "^22.0.1",
     "sharp": "^0.34.1",
-    "yargs": "^17.7.2"
+    "yargs": "^18.0.0"
   },
   "devDependencies": {
     "@substrate-system/debug": "^0.9.0",
